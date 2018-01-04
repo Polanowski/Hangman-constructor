@@ -1,0 +1,24 @@
+{
+  "name": "hangman-constructor",
+  "version": "1.0.0",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polanowski/Hangman-constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polanowski/Hangman-constructor/issues"
+  },
+  "homepage": "https://github.com/Polanowski/Hangman-constructor#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "omdb": "^0.8.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
